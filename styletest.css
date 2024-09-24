@@ -13,3 +13,24 @@ div#test01 {
 .important {
   color: #a00;
 }
+
+.name{
+  text-align: center;
+}
+
+.ol{
+  color: #00a;
+}
+
+.el{
+  color: rgb(255, 0, 0);
+}
+
+#members th,td {
+  border: solid 2px;
+}
+
+.last3{
+  font-weight:900;
+  color: rgb(0, 0, 0);
+}
